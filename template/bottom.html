@@ -1,0 +1,88 @@
+
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td background="images/topbg2.jpg" height="12"></td>
+    </tr>
+    <tr>
+      <td><table cellspacing="0" cellpadding="0" width="100%" border="0">
+          <tbody>
+            <tr>
+             
+              <td style=" text-align:center;line-height:25px; padding-top:10; padding-bottom:10px">Copyright &copy; 2016 深圳市金谷泉科技有限公司 All Rights Reserved. <a href="http://www.miitbeian.gov.cn" target="_blank">粤ICP备16035702号</a> <br>电话:+86-0755-89328010 &nbsp;手机:13724362190 &nbsp;地址：深圳市龙岗区龙东东升新路3号&nbsp;&nbsp;</td>
+            </tr>
+          </tbody>
+        
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<div style="z-index: 20; position: absolute; width: 111px; height: 300px; visibility: visible; top: 384.4px; right: 10px; " id="qqfloat">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+    <tbody>
+      <tr>
+        <td style="cursor: hand" onClick="document.getelementbyid(&#39;qqfloat&#39;).style.display=&#39;none&#39;;" height="24"><img src="images/01.gif" width="111" height="24"></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+            <tbody>
+              <tr>
+                <td height="27"><img src="images/03.gif" width="111" height="27"></td>
+              </tr>
+              <tr>
+                <td valign="top" style="background:url(images/04.gif) repeat-y"><table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+                    <tbody>
+                      <tr valign="top">
+                        <td colspan="2"><table border="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="padding-left: 20px"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1293698738&site=qq&menu=yes"><img border="0" src="images/pa.gif" alt="点击这里给我发消息" title="点击这里给我发消息"></a></td>
+                              </tr>
+                              <tr>
+                                <td align="center">销售经理 </td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+              </tr>
+              <tr>
+                <td height="19"><img src="images/05.gif" width="111" height="19"></td>
+              </tr>
+            </tbody>
+          </table></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<script type="text/javascript">
+var tips; var theTop = 135;
+var old = theTop;
+function initFloatTips() {
+  tips = document.getElementById('qqfloat');
+  moveTips();
+};
+function moveTips() {
+  var tt=50;
+  if (window.innerHeight) {
+    pos = window.pageYOffset
+  }
+  else if (document.documentElement && document.documentElement.scrollTop) {
+    pos = document.documentElement.scrollTop
+  }
+  else if (document.body) {
+    pos = document.body.scrollTop;
+  }
+  pos=pos-tips.offsetTop+theTop;
+  pos=tips.offsetTop+pos/10;	
+  if (pos < theTop) pos = theTop;
+  if (pos != old) {
+    tips.style.top = pos+"px";
+    tt=10;
+  }	
+  old = pos;
+  setTimeout(moveTips,tt);
+}
+initFloatTips();
+</script>
