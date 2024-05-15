@@ -4,17 +4,17 @@
       <td height="120" align="center" valign="bottom" style="background:url(images/top-bg.jpg)"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tbody>
             <tr>
-              <td height="83" valign="top"><a href="/"><img src="images/logo.jpg" alt="ÉîÛÚÊÐ½ð¹ÈÈª¿Æ¼¼ÓÐÏÞ¹«Ë¾" width="700" height="80" border="0"></a></td>
+              <td height="83" valign="top"><a href="/"><img src="images/logo.jpg" alt="æ·±åœ³å¸‚é‡‘è°·æ³‰ç§‘æŠ€æœ‰é™å…¬å¸" width="700" height="80" border="0"></a></td>
               <td style="padding-right:10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody>
                     <tr>
-                      <td align="right"><a href="/">·µ»ØÊ×Ò³</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contactus.html" title="ÁªÏµÎÒÃÇ">ÁªÏµÎÒÃÇ</a></td>
+                      <td align="right"><a href="/">è¿”å›žé¦–é¡µ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contactus.html" title="è”ç³»æˆ‘ä»¬">è”ç³»æˆ‘ä»¬</a></td>
                     </tr>
                     <tr>
                       <td>&nbsp;</td>
                     </tr>
                     <tr>
-                      <td align="right">È«¹ú·þÎñÈÈÏß£º<span class="style6">0755-89328010</span></td>
+                      <td align="right">å…¨å›½æœåŠ¡çƒ­çº¿ï¼š<span class="style6">0755-89328010</span></td>
                     </tr>
                   </tbody>
               </table></td>
@@ -29,21 +29,21 @@
                   <tbody>
                     <tr>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td width="120" align="center" style="background:url(images/menu-bg2.jpg) center no-repeat;" class="a1"><a href="/" title="ºÆÃÎÊ×Ò³">Ê×&nbsp;&nbsp;Ò³</a></td>
+                      <td width="120" align="center" style="background:url(images/menu-bg2.jpg) center no-repeat;" class="a1"><a href="/" title="æµ©æ¢¦é¦–é¡µ">é¦–&nbsp;&nbsp;é¡µ</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="aboutus.html" title="¹ØÓÚÎÒÃÇ">¹ØÓÚÎÒÃÇ</a></td>
+                      <td class="ta1"><a href="aboutus.html" title="å…³äºŽæˆ‘ä»¬">å…³äºŽæˆ‘ä»¬</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="product_58.html" title="²úÆ·ÖÐÐÄ">²úÆ·ÖÐÐÄ</a></td>
+                      <td class="ta1"><a href="product_58.html" title="äº§å“ä¸­å¿ƒ">äº§å“ä¸­å¿ƒ</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="news.html" title="ÐÂÎÅÖÐÐÄ">ÐÂÎÅÖÐÐÄ</a></td>
+                      <td class="ta1"><a href="news.html" title="æ–°é—»ä¸­å¿ƒ">æ–°é—»ä¸­å¿ƒ</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="zizhi.html" title="×ÊÖÊÈÙÓþ">×ÊÖÊÈÙÓþ</a></td>
+                      <td class="ta1"><a href="zizhi.html" title="èµ„è´¨è£èª‰">èµ„è´¨è£èª‰</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="sales.html" title="ÓªÏúÍøÂç">ÓªÏúÍøÂç</a></td>
+                      <td class="ta1"><a href="sales.html" title="è¥é”€ç½‘ç»œ">è¥é”€ç½‘ç»œ</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="feedback.asp" title="ÔÚÏß¶¨µ¥">ÔÚÏß¶¨µ¥</a></td>
+                      <td class="ta1"><a href="feedback.asp" title="åœ¨çº¿å®šå•">åœ¨çº¿å®šå•</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
-                      <td class="ta1"><a href="contactus.html" title="ÁªÏµÎÒÃÇ">ÁªÏµÎÒÃÇ</a></td>
+                      <td class="ta1"><a href="contactus.html" title="è”ç³»æˆ‘ä»¬">è”ç³»æˆ‘ä»¬</a></td>
                       <td width="2"><img src="images/menu-line.jpg" width="2" height="37"></td>
                     </tr>
                   </tbody>

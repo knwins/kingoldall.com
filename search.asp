@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!--#include file="fconn.asp"-->
 <%
-session("field")=request("field")'ËÑË÷ÀàĞÍ, ²úÆ·Ãû³Æ»òÕß²úÆ·ÄÚÈİ
+session("field")=request("field")'æœç´¢ç±»å‹, äº§å“åç§°æˆ–è€…äº§å“å†…å®¹
 smallclass=request("smallclass")
 bigclass=request("bigclass")
 session("ver")="cn"
@@ -19,7 +19,7 @@ rs.close
 set rs=nothing%>
 <head>
 <title><%=title%></title>
-<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
 <META content="IE=7.0000" http-equiv="X-UA-Compatible">
 <meta name="description" content="<%=description%>">
 <meta name="keywords" content="<%=key%>">
@@ -79,7 +79,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                   <td width="210" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tbody>
                         <tr valign="middle">
-                          <td height="32" background="images/left-bg1.jpg" class="font1">²úÆ··ÖÀà<span class="en">£üPRODUCT LIST </span></td>
+                          <td height="32" background="images/left-bg1.jpg" class="font1">äº§å“åˆ†ç±»<span class="en">ï½œPRODUCT LIST </span></td>
                         </tr>
                         <tr valign="middle">
                           <td height="8"></td>
@@ -142,7 +142,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
  function search()
  {
   if(document .getElementById ("keys").value=="")
-  { alert ("¹Ø¼ü×Ö²»ÄÜÎª¿Õ!!");
+  { alert ("å…³é”®å­—ä¸èƒ½ä¸ºç©º!!");
     return;
   }
   else
@@ -157,14 +157,14 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                           <td height="8"></td>
                         </tr>
                         <tr>
-                          <td height="32" background="images/left-bg1.jpg" class="font1">²úÆ·ËÑË÷<span class="en">£üSEARCH </span></td>
+                          <td height="32" background="images/left-bg1.jpg" class="font1">äº§å“æœç´¢<span class="en">ï½œSEARCH </span></td>
                         </tr>
                           <form action="">
                           <td align="center" background="images/yewu_bg.jpg"><table width="90%" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px; margin-bottom:10px">
                         <tr>
                           <td width="74%" align="left"><INPUT class=nb7
-      onblur="this.value = this.value =='' ? 'ÊäÈë¹Ø¼ü×Ö...' : this.value" 
-      onclick="this.value='';" value=ÊäÈë¹Ø¼ü×Ö... id=keys> </td>
+      onblur="this.value = this.value =='' ? 'è¾“å…¥å…³é”®å­—...' : this.value" 
+      onclick="this.value='';" value=è¾“å…¥å…³é”®å­—... id=keys> </td>
                           <td width="20%" align="left"><a href="javascript:search()"><img src="images/search2.gif" width="40" height="20" border="0" /></a></td>
                         </tr>
                       </table></td>
@@ -177,32 +177,32 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                           <td height="8"></td>
                         </tr>
                         <tr>
-                          <td><a href="contactus.html"><img src="images/inLinkImg.JPG" alt="ÁªÏµÎÒÃÇ" width="210" height="68" border="0"></a></td>
+                          <td><a href="contactus.html"><img src="images/inLinkImg.JPG" alt="è”ç³»æˆ‘ä»¬" width="210" height="68" border="0"></a></td>
                         </tr>
                         <tr>
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody>
                                 <tr>
-                                  <td colspan="2" height="25"><span class="STYLE31"> ÉîÛÚÊĞ½ğ¹ÈÈª¿Æ¼¼ÓĞÏŞ¹«Ë¾ </span></td>
+                                  <td colspan="2" height="25"><span class="STYLE31"> æ·±åœ³å¸‚é‡‘è°·æ³‰ç§‘æŠ€æœ‰é™å…¬å¸ </span></td>
                                 </tr>
                                 <tr>
-                                  <td height="25">µØ Ö·£º</td>
-                                  <td>ÉîÛÚÊĞÁú¸ÚÇøÁú¶«¶«ÉıĞÂÂ·3ºÅ</td>
+                                  <td height="25">åœ° å€ï¼š</td>
+                                  <td>æ·±åœ³å¸‚é¾™å²—åŒºé¾™ä¸œä¸œå‡æ–°è·¯3å·</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">µç »°£º</td>
+                                  <td height="25">ç”µ è¯ï¼š</td>
                                   <td>0755-89328010</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">´« Õæ£º</td>
+                                  <td height="25">ä¼  çœŸï¼š</td>
                                   <td>0755-89328010</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">ÊÖ »ú£º</td>
+                                  <td height="25">æ‰‹ æœºï¼š</td>
                                   <td>13724362190</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">Íø Ö· £º </td>
+                                  <td height="25">ç½‘ å€ ï¼š </td>
                                     <td><a href="http://www.kingoldall.com/">www.kingoldall.com</a></td>
                                 </tr>
                                 <tr>
@@ -230,7 +230,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                                 <tr>
                                   <td width="4" height="10">&nbsp;</td>
                                   <td width="272"><img src="images/017.jpg" width="194" height="27"></td>
-                                  <td width="494" align="right"><A href="index.html">Ê×Ò³</A> &gt; ²úÆ·Õ¹Ê¾ &gt; ËÑË÷µÄ¹Ø¼ü×Ö:<%=keywords%></td>
+                                  <td width="494" align="right"><A href="index.html">é¦–é¡µ</A> &gt; äº§å“å±•ç¤º &gt; æœç´¢çš„å…³é”®å­—:<%=keywords%></td>
                                 </tr>
                               </table></td>
                           </tr>
@@ -261,7 +261,7 @@ sql=sql&"ver='cn' order by orders asc"
 rs.open sql,conn,1
 
 if rs.eof and rs.bof then
-response.write("<br>ÔİÊ±Ã»ÓĞ²úÆ·<br>")
+response.write("<br>æš‚æ—¶æ²¡æœ‰äº§å“<br>")
 else
 dim page
  IF not IsNumeric(Request("page")) Or IsEmpty(Request("page")) Then

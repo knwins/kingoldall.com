@@ -71,7 +71,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                   <td width="210" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tbody>
                         <tr valign="middle">
-                          <td height="32" background="images/left-bg1.jpg" class="font1">äº§å“åˆ†ç±»<span class="en">ï½œPRODUCT LIST </span></td>
+                          <td height="32" background="images/left-bg1.jpg" class="font1">²úÆ··ÖÀà<span class="en">£üPRODUCT LIST </span></td>
                         </tr>
                         <tr valign="middle">
                           <td height="8"></td>
@@ -134,7 +134,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
  function search()
  {
   if(document .getElementById ("keys").value=="")
-  { alert ("å…³é”®å­—ä¸èƒ½ä¸ºç©º!!");
+  { alert ("¹Ø¼ü×Ö²»ÄÜÎª¿Õ!!");
     return;
   }
   else
@@ -149,15 +149,15 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                           <td height="8"></td>
                         </tr>
                         <tr>
-                          <td height="32" background="images/left-bg1.jpg" class="font1">äº§å“æœç´¢<span class="en">ï½œSEARCH </span></td>
+                          <td height="32" background="images/left-bg1.jpg" class="font1">²úÆ·ËÑË÷<span class="en">£üSEARCH </span></td>
                         </tr>
                         <tr>
                               <form action="">
                         <td align="center" background="images/yewu_bg.jpg"><table width="90%" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px; margin-bottom:10px">
                         <tr>
                           <td width="74%" align="left"><INPUT class=nb7
-      onblur="this.value = this.value =='' ? 'è¾“å…¥å…³é”®å­—...' : this.value" 
-      onclick="this.value='';" value=è¾“å…¥å…³é”®å­—... id=keys> </td>
+      onblur="this.value = this.value =='' ? 'ÊäÈë¹Ø¼ü×Ö...' : this.value" 
+      onclick="this.value='';" value=ÊäÈë¹Ø¼ü×Ö... id=keys> </td>
                           <td width="20%" align="left"><a href="javascript:search()"><img src="images/search2.gif" width="40" height="20" border="0" /></a></td>
                         </tr>
                       </table></td>
@@ -170,32 +170,32 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                           <td height="8"></td>
                         </tr>
                         <tr>
-                          <td><a href="contactus.html"><img src="images/inLinkImg.JPG" alt="è”ç³»æˆ‘ä»¬" width="210" height="68" border="0"></a></td>
+                          <td><a href="contactus.html"><img src="images/inLinkImg.JPG" alt="ÁªÏµÎÒÃÇ" width="210" height="68" border="0"></a></td>
                         </tr>
                         <tr>
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody>
                                 <tr>
-                                  <td colspan="2" height="25"><span class="STYLE31"> æ·±åœ³å¸‚é‡‘è°·æ³‰ç§‘æŠ€æœ‰é™å…¬å¸ </span></td>
+                                  <td colspan="2" height="25"><span class="STYLE31"> ÉîÛÚÊĞ½ğ¹ÈÈª¿Æ¼¼ÓĞÏŞ¹«Ë¾ </span></td>
                                 </tr>
                                 <tr>
-                                  <td height="25">åœ° å€ï¼š</td>
-                                  <td>æ·±åœ³å¸‚é¾™å²—åŒºé¾™ä¸œä¸œå‡æ–°è·¯3å·</td>
+                                  <td height="25">µØ Ö·£º</td>
+                                  <td>ÉîÛÚÊĞÁú¸ÚÇøÁú¶«¶«ÉıĞÂÂ·3ºÅ</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">ç”µ è¯ï¼š</td>
+                                  <td height="25">µç »°£º</td>
                                   <td>0755-89328010</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">ä¼  çœŸï¼š</td>
+                                  <td height="25">´« Õæ£º</td>
                                   <td>0755-89328010</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">æ‰‹ æœºï¼š</td>
+                                  <td height="25">ÊÖ »ú£º</td>
                                   <td>13724362190</td>
                                 </tr>
                                 <tr>
-                                  <td height="25">ç½‘ å€ ï¼š </td>
+                                  <td height="25">Íø Ö· £º </td>
                                   <td><a href="http://www.kingoldall.com/">www.kingoldall.com</a></td>
                                 </tr>
                                 <tr>
@@ -223,7 +223,7 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                                 <tr>
                                   <td width="5" height="10">&nbsp;</td>
                                   <td width="678"><img src="images/024.jpg" width="194" height="27"></td>
-                                  <td width="262" align="right"><A href="index.html">é¦–é¡µ</A>ã€€&gt;ã€€<A href="aboutus.html">å…³äºæˆ‘ä»¬</A> &gt;ã€€<A href="sales.html">è¥é”€ç½‘ç»œ</A></td>
+                                  <td width="262" align="right"><A href="index.html">Ê×Ò³</A>¡¡&gt;¡¡<A href="aboutus.html">¹ØÓÚÎÒÃÇ</A> &gt;¡¡<A href="sales.html">ÓªÏúÍøÂç</A></td>
                                 </tr>
                               </table></td>
                           </tr>
@@ -236,62 +236,62 @@ function eshop(id) { window.open("Eshop.asp?cpbm="+id,"","height=400,width=640,l
                               <tr>
                                 <td align="left" valign="top" style="padding-left:1px;"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" bordercolor="#EDEDED" bgcolor="#FFFFFF">
                              
-            <form action="messagesave.asp" method="post" name="myform" id="myform" onSubmit="return add()">
+            <form action="https://crm.szqws.com:8084/api/mail/aliyun_send.do" method="post" name="myform" id="myform" onSubmit="return add()">
          <input name="mymail" type="hidden" value="1293698738@qq.com" />
                                     <tr bgcolor="#DDDDDD">
-                                      <td height="30" colspan="2" bgcolor="#FFFFFF" class="BS"><label>&nbsp;å°Šæ•¬çš„å®¢æˆ·ï¼Œè¯·æ‚¨äºæ­¤å¤„å¡«ä¸‹æ‚¨çš„<span class="INPUT">è¯¦ç»†ä¿¡æ¯</span>ï¼Œè°¢è°¢ï¼</label></td>
+                                      <td height="30" colspan="2" bgcolor="#FFFFFF" class="BS"><label>&nbsp;×ğ¾´µÄ¿Í»§£¬ÇëÄúÓÚ´Ë´¦ÌîÏÂÄúµÄ<span class="INPUT">ÏêÏ¸ĞÅÏ¢</span>£¬Ğ»Ğ»£¡</label></td>
                                     </tr>
                                     <tr>
                                       <td height="10" colspan="2" align="left"></td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left">&nbsp;&nbsp;æ‚¨çš„å§“åï¼š</td>
+                                      <td height="25" align="left">&nbsp;&nbsp;ÄúµÄĞÕÃû£º</td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="user" type="text" id="user" size="20" maxlength="10" />
                                         &nbsp;</td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left">&nbsp;&nbsp;è”ç³»ç”µè¯ï¼š</td>
+                                      <td height="25" align="left">&nbsp;&nbsp;ÁªÏµµç»°£º</td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="phone" type="text" id="phone" size="30" maxlength="15" />
                                         &nbsp;</td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left">&nbsp;&nbsp;æ‰€åœ¨å•ä½ï¼š</td>
+                                      <td height="25" align="left">&nbsp;&nbsp;ËùÔÚµ¥Î»£º</td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="company" type="text" id="company" size="40" />
                                         &nbsp;&nbsp;</td>
                                     </tr>
                                     <tr bgcolor="#DDDDDD">
-                                      <td height="30" colspan="2" bgcolor="#FFFFFF" class="BS"><label>&nbsp;å°Šæ•¬çš„å®¢æˆ·ï¼Œè¯·æ‚¨äºæ­¤å¤„å¡«ä¸‹æ‚¨çš„<span class="INPUT">è¯¦ç»†è®¢å•</span>ï¼Œè°¢è°¢ï¼</label></td>
+                                      <td height="30" colspan="2" bgcolor="#FFFFFF" class="BS"><label>&nbsp;×ğ¾´µÄ¿Í»§£¬ÇëÄúÓÚ´Ë´¦ÌîÏÂÄúµÄ<span class="INPUT">ÏêÏ¸¶©µ¥</span>£¬Ğ»Ğ»£¡</label></td>
                                     </tr>
                                     <tr>
                                       <td height="10" colspan="2" align="left"></td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left">&nbsp;&nbsp;äº§å“åç§°ï¼š</td>
+                                      <td height="25" align="left">&nbsp;&nbsp;²úÆ·Ãû³Æ£º</td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="title" type="text" id="title" size="40" /></td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left">&nbsp;&nbsp;<span class="SS">è®¢å•</span>æ•°é‡ï¼š</td>
+                                      <td height="25" align="left">&nbsp;&nbsp;<span class="SS">¶©µ¥</span>ÊıÁ¿£º</td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="suliang" type="text" id="suliang" size="10" maxlength="10" onKeyUp="value=value.replace(/[^\d]/g,'') "onbeforepaste="clipboardData.setData('text',clipboardData.getData('text').replace(/[^\d]/g,''))" /></td>
                                     </tr>
                                     <tr>
-                                      <td height="25" align="left"><span class="SS">&nbsp;&nbsp;è®¢å•åœ°å€ï¼š</span></td>
+                                      <td height="25" align="left"><span class="SS">&nbsp;&nbsp;¶©µ¥µØÖ·£º</span></td>
                                       <td height="30">&nbsp;
                                         <input class="nb7" name="address" type="text" id="address" size="50" /></td>
                                     </tr>
                                     <tr>
-                                      <td align="left" valign="top">&nbsp;&nbsp;è¯¦ç»†å¤‡æ³¨ï¼š</td>
+                                      <td align="left" valign="top">&nbsp;&nbsp;ÏêÏ¸±¸×¢£º</td>
                                       <td>&nbsp;
                                         <textarea name="content" cols="65" rows="5" id="content"></textarea></td>
                                     </tr>
                                     <tr bgcolor="#EDEDED">
-                                      <td height="30" colspan="2" align="center" bgcolor="#FFFFFF"><input name="submit" type="submit" class="INPUT" id="Submit" value="æˆ‘è¦è®¢è´­" />
+                                      <td height="30" colspan="2" align="center" bgcolor="#FFFFFF"><input name="submit" type="submit" class="INPUT" id="Submit" value="ÎÒÒª¶©¹º" />
                                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <input name="submit" type="reset" class="INPUT" id="Submit" value="å–æ¶ˆè®¢å•" /></td>
+                                        <input name="submit" type="reset" class="INPUT" id="Submit" value="È¡Ïû¶©µ¥" /></td>
                                     </tr>
                                   </form>
                                 </table></td>
@@ -318,25 +318,25 @@ function checkform(){
 
 	if (thisForm.tel.value.length < 4 || thisForm.tel.value.length>20)
         {
-        alert("è¯·åœ¨è¾“å…¥æœ‰æ•ˆçš„è”ç³»ç”µè¯ï¼");
+        alert("ÇëÔÚÊäÈëÓĞĞ§µÄÁªÏµµç»°£¡");
 		document.thisForm.tel.focus();
         return false;
         }
 	if (thisForm.namee.value.length < 2 || thisForm.namee.value.length>4)
         {
-        alert("è¯·å¡«å†™æ‚¨çš„å§“åï¼Œå¿…é¡»ä¸ºï¼’ï¼ï¼”ä¸ªå­—ç¬¦ï¼");
+        alert("ÇëÌîĞ´ÄúµÄĞÕÃû£¬±ØĞëÎª£²£­£´¸ö×Ö·û£¡");
 		document.thisForm.namee.focus();
         return false;
         }	
 	if (thisForm.address.value.length < 6 || thisForm.address.value.length>50)
         {
-        alert("è¯·è¾“å…¥è”ç³»åœ°å€ï¼Œå¿…é¡»ä¸ºï¼–ï¼5ï¼ä¸ªå­—ç¬¦ï¼");
+        alert("ÇëÊäÈëÁªÏµµØÖ·£¬±ØĞëÎª£¶£­5£°¸ö×Ö·û£¡");
 		document.thisForm.address.focus();
         return false;
         }		
 	if (document.thisForm.msg.value == "")
         {
-        alert("è¯·å¡«å†™è®¢å•è¯¦ç»†å†…å®¹ï¼");
+        alert("ÇëÌîĞ´¶©µ¥ÏêÏ¸ÄÚÈİ£¡");
 		document.thisForm.msg.focus();
         return false;
         }
