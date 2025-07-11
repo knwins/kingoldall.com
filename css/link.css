@@ -1,0 +1,48 @@
+BODY {
+	FONT-SIZE: 9pt;
+	COLOR: #333333;
+	LINE-HEIGHT: 22px;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	MARGIN: 0px;
+	background-color: #fff;
+}
+TD {FONT-SIZE: 9pt; COLOR: #333333; LINE-HEIGHT: 22px; TEXT-DECORATION: none}
+TH {FONT-SIZE: 9pt; COLOR: #333333; LINE-HEIGHT: 22px; TEXT-DECORATION: none}
+A {COLOR: #000000; TEXT-DECORATION: none}
+.INPUT {FONT-SIZE: 9pt;BACKGROUND-IMAGE: url(../img/input_bg.jpg);	COLOR: #FF0000;	LINE-HEIGHT: 16px;	FONT-FAMILY: Arial, Helvetica, sans-serif;TEXT-DECORATION: none;border-top-width: 0.5px;border-right-width: 0.5px;border-bottom-width: 0.5px;border-left-width: 0.5px;border-top-color: #000000;border-right-color: #000000;border-bottom-color: #000000;border-left-color: #000000;}
+.INPUT2 {BACKGROUND-IMAGE: url(../img/input1.jpg);FONT-FAMILY: Arial, Helvetica, sans-serif; color:#0977A8}
+INPUT {BACKGROUND-IMAGE: url(../img/input_bg.jpg);FONT-FAMILY: Arial, Helvetica, sans-serif; color:#ff0000}
+A:hover {COLOR: #ff0000; TEXT-DECORATION: underline}
+.prod {	FONT-WEIGHT: bolder; FONT-SIZE: 13pt; FONT-FAMILY: Arial}
+#more {	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; lisst-style-type: none}
+#more LI {FONT-WEIGHT: bold; FLOAT: left; WIDTH: 100px; CURSOR: pointer; COLOR: #333333; TEXT-ALIGN: center}
+.td1 { FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 35px; FONT-FAMILY: Arial, Helvetica, sans-serif}
+.td1:hover {COLOR: #ffff00; TEXT-DECORATION: underline}
+.login1 {FONT-WEIGHT: normal;FONT-SIZE: 9pt;COLOR: #FFFFFF;LINE-HEIGHT: normal;FONT-FAMILY: Arial, Helvetica, sans-serif;text-decoration: none;}
+.login1 A {COLOR: #ffffff; TEXT-DECORATION: none}
+.login1 A:hover {COLOR: #ebebeb; TEXT-DECORATION: underline}
+.left_1 {font-size: 8px;font-family: 04b_08;}
+.foot {font-size: 12px; COLOR: #ffffff; }
+.index_logo{font-size: 12px; COLOR: #ffffff; }
+#contact{margin:20px; line-height:300%;}
+
+
+#about {
+	SCROLLBAR-FACE-COLOR: #eeeeee; SCROLLBAR-HIGHLIGHT-COLOR: #868686; OVERFLOW: auto; WIDTH: 160px; SCROLLBAR-SHADOW-COLOR: #868686; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #2b2880; SCROLLBAR-TRACK-COLOR: #efefef; WHITE-SPACE: nowrap; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; HEIGHT: 144px
+}
+
+#message {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; lisst-style-type: none
+}
+#message LI {
+	FONT-WEIGHT: bold; FLOAT: left; WIDTH: 100px; CURSOR: pointer; COLOR: #333333; TEXT-ALIGN: center
+}
+.menu {background-image:url(../img/logo/r_s.jpg);height:35px;margin:0px auto 0px auto;}
+.menu_no {background-image:url(../img/logo/r_s.jpg);width:89px; height:35px; float:left;}
+.menu_no a {color:#000;font-size:12px; text-decoration:none;background-image:url(../img/logo/r_s.jpg);width:89px; height:27px; float:left; padding-top:8px;}
+.menu_no a:hover {color:#fff;font-size:12px;font-weight:bold; text-decoration:underline;background-image:url(../img/logo/r_d.jpg);width:89px; height:27px; float:left; padding-top:8px;}
+
+.menu_on {background-image:url(../img/logo/r_d.jpg);width:89px; height:35px; float:left;}
+.menu_on a {color:#FFFFFF;font-size:12px;text-decoration:none;background-image:url(../img/logo/r_d.jpg);width:89px; height:27px; float:left; padding-top:8px;}
+.menu_on a:hover {color:#fff;font-size:12px;font-weight:bold; text-decoration:underline;background-image:url(../img/logo/r_r1.jpg);width:89px; height:27px; float:left; padding-top:8px;}
